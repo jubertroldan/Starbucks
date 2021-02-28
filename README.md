@@ -36,7 +36,9 @@ though it may also lead towards a transaction (customer spending), bogo and disc
 ## Metrics used
 the model will use AUC and F1-score to measure how well the model does on training and test data.
 
-## Conclusion/Result: as a baseline model, we used logistic regression model that has been optimized using GridsearchCV to select best parameters. with an AUC of 0.75 and F1 score somewhere on 0.7. a decent one for baseline model which can be further improved by exploring further additional features in the future.
+## Conclusion/Result: 
+
+as a baseline model, we used logistic regression model that has been optimized using GridsearchCV to select best parameters. with an AUC of 0.75 and F1 score somewhere on 0.7. a decent one for baseline model which can be further improved by exploring further additional features in the future.
 
 I also implemented a Random Forest Classifier tuning the hyperparameters to improve its performace which recorded and AUC of 0.79 which is better the the previous classifer
 
@@ -69,8 +71,9 @@ as this is a past data, and I would like to create a "Tenure" feature, we would 
 
 
 ## Other links
-- Codebase (Github Repo)
-- Blog
+- Codebase (Github Repo) 
+- Blog - https://jubertroldan.medium.com/looking-into-the-starbucks-dataset-an-example-analysis-on-transactional-data-from-starbucks-3e66830a1aa0
+
 
 ## Licensing
 If you  would like to do further more, it is available below under MIT license.
