@@ -77,6 +77,8 @@ as this is a past data, and I would like to create a "Tenure" feature, we would 
 
 ## Licensing
 If you  would like to do further more, it is available below under MIT license.
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
 
 ## Acknowledgements
 
