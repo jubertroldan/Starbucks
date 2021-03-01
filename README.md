@@ -39,9 +39,11 @@ we will also use Kfold cross validation to ensure the quality of our metric.
 
 ## Conclusion/Result: 
 
-as a baseline model, we used logistic regression model that has been optimized using GridsearchCV to select best parameters. with an AUC of 0.75 and F1 score somewhere on 0.7. a decent one for baseline model which can be further improved by exploring further additional features in the future.
+as a baseline model, we used logistic regression model that has been optimized using GridsearchCV to select best parameters. with an AUC of 0.75 a decent one for baseline model which can be further improved by exploring further additional features in the future.
 
 I also implemented a Random Forest Classifier tuning the hyperparameters to improve its performace which recorded and AUC of 0.79 which is better the the previous classifer
+
+in order to validate the model performance even further, I implemented KFold validation which resulted to a score of 0.71 on the improved model by 0.04.
 
 if time permits, i can consider other features to build such as how long has the last offer/discount been 
 approved
