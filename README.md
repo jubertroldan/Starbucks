@@ -93,3 +93,6 @@ https://towardsdatascience.com/hyperparameter-tuning-the-random-forest-in-python
 
 KFold cross validation:
 https://machinelearningmastery.com/repeated-k-fold-cross-validation-with-python/
+
+Advantages and disadvantages of logistic regression
+https://www.geeksforgeeks.org/advantages-and-disadvantages-of-logistic-regression/
