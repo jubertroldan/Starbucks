@@ -74,7 +74,7 @@ as this is a past data, and I would like to create a "Tenure" feature, we would 
 
 
 ## Other links
-- Codebase (Github Repo) 
+- Codebase (Github Repo): https://github.com/jubertroldan/Starbucks
 - Blog - https://jubertroldan.medium.com/looking-into-the-starbucks-dataset-an-example-analysis-on-transactional-data-from-starbucks-3e66830a1aa0
 
 
