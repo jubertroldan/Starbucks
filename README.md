@@ -34,7 +34,8 @@ setting informational offer type as a form of explanatory feature, showing a for
 though it may also lead towards a transaction (customer spending), bogo and discount are more tangible to measure if crosses the full journey, offer recieved -> offer viewed -> offer completed.
 
 ## Metrics used
-the model will use AUC and F1-score to measure how well the model does on training and test data.
+the model will use AUC to measure how well the model does on training and test data.
+we will also use Kfold cross validation to ensure the quality of our metric.
 
 ## Conclusion/Result: 
 
@@ -87,3 +88,6 @@ https://towardsdatascience.com/how-to-extract-key-from-python-dictionary-using-v
 
 Model - Random forest hyper parameter tuning
 https://towardsdatascience.com/hyperparameter-tuning-the-random-forest-in-python-using-scikit-learn-28d2aa77dd74
+
+KFold cross validation:
+https://machinelearningmastery.com/repeated-k-fold-cross-validation-with-python/
